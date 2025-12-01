@@ -59,7 +59,7 @@ Requirements:
 Install devkitARM + msys2 using devkitPro Updater.
 
 Inside MSYS2 terminal:
-git clone https://github.com/YOUR_USERNAME/Wordle-3ds.git
+git clone https://github.com/blazeingfri/3ds-Wordle
 cd Wordle-3ds
 make
 
