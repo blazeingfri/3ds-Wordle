@@ -28,10 +28,15 @@ This is my personal 3DS homebrew project created for fun and to learn devkitARM 
 📦 Features
 
 ✔ Authentic Wordle logic
+
 ✔ Hard Mode using previous clues
+
 ✔ Clean console rendering
+
 ✔ Fast input + simple UI
+
 ✔ Works on Homebrew Launcher (3DSX)
+
 ✔ Compiles to .3dsx, .elf, and .smdh
 
 🧠 How It Works
