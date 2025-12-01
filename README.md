@@ -1,4 +1,4 @@
-# 3ds-Wordle
+# Wordle-3DS
 A fully playable Wordle clone built for the Nintendo 3DS using devkitARM & libctru.
 
 
@@ -22,6 +22,7 @@ Custom SMDH metadata (title, author, icon)
 
 Runs on real hardware or Citra
 
+
 This is my personal 3DS homebrew project created for fun and to learn devkitARM + libctru development.
 
 
@@ -39,6 +40,8 @@ This is my personal 3DS homebrew project created for fun and to learn devkitARM 
 
 ✔ Compiles to .3dsx, .elf, and .smdh
 
+
+
 🧠 How It Works
 
 The game uses:
@@ -49,16 +52,17 @@ A modified Wordle scoring function
 A loop-based frame update cycle
 3DS homebrew SMDH metadata through Makefile configuration
 
+
 All logic is in source/main.cpp.
 
 
-🛠 Building From Source
-Requirements
 
+🛠 Building From Source
+
+Requirements:
 Install devkitARM + msys2 using devkitPro Updater.
 
 Inside MSYS2 terminal:
-
 git clone https://github.com/YOUR_USERNAME/Wordle-3ds.git
 cd Wordle-3ds
 make
@@ -68,6 +72,7 @@ Wordle-3ds.3dsx
 Wordle-3ds.smdh
 Wordle-3ds.elf
 
+
 🤝 Credits
 
 devkitPro — devkitARM toolchain
@@ -75,6 +80,7 @@ devkitPro — devkitARM toolchain
 smealum — libctru & 3DS Homebrew Launcher
 
 Original Wordle by Josh Wardle (This is a fan-made project for educational purposes.)
+
 
 
 📜 License
